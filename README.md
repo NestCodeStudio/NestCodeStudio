@@ -123,7 +123,7 @@ At NestCodeStudio, we use the latest and most reliable technologies to create to
 Are you ready to bring your ideas to life? Let’s talk about how **NestCodeStudio** can help you achieve your business goals.
 
 - **Email**: [contact@nestcodestudio.com](mailto:nestcodestudio@gmail.com)
-- **Website**: [NestCodeStudio](https://www.nestcodestudio.com)
+- **Website**: https://nestcodestudio.com/
 - **LinkedIn**: [NestCodeStudio](https://www.linkedin.com/company/nestcodestudio)
 - **GitHub**: [NestCodeStudio](https://github.com/nestcodestudio)
 
