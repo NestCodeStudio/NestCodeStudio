@@ -57,7 +57,7 @@ En NestCodeStudio, utilizamos las tecnologías más recientes y confiables para 
 ¿Estás listo para hacer realidad tus ideas? Hablemos sobre cómo **NestCodeStudio** puede ayudarte a lograr tus objetivos de negocio.
 
 - **Email**: [contact@nestcodestudio.com](mailto:nestcodestudio@gmail.com)
-- **Sitio Web**: [NestCodeStudio](https://www.nestcodestudio.com)
+- **Sitio Web**: https://nestcodestudio.com/
 - **LinkedIn**: [NestCodeStudio](https://www.linkedin.com/company/nestcodestudio)
 - **GitHub**: [NestCodeStudio](https://github.com/nestcodestudio)
 
