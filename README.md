@@ -1,19 +1,17 @@
-# Bienvenido a NestCodeStudio 👨‍💻
-
-¡Hola! Te damos la bienvenida a **NestCodeStudio**, donde nos especializamos en **desarrollo web full-stack** y ofrecemos soluciones digitales personalizadas de alta calidad para negocios y freelancers. 
-
----
-
 ## 🌍 Languages / Idiomas
 
 - [English](#english-version)
-- [Español](#version-en-espaol)
+- [Español](#version-en-español)
 
 ---
 
-## 🇺🇸 English Version
+## <a name="english-version"></a>English Version
 
-### Welcome to NestCodeStudio 👨‍💻
+# Welcome to NestCodeStudio 👨‍💻
+
+Hello! Welcome to **NestCodeStudio**, where we specialize in **full-stack web development** and provide high-quality custom digital solutions for businesses and freelancers.
+
+---
 
 At **NestCodeStudio**, we specialize in **full-stack web development** and provide custom, high-quality digital solutions for businesses and freelancers. We are a modern web development studio focused on building scalable, user-friendly, and performance-optimized applications.
 
@@ -72,10 +70,14 @@ We’re excited about the future! In 2025, we aim to expand our services to incl
 Thank you for visiting **NestCodeStudio**. Let’s build something great together!
 
 ---
-## <a name="english-version"></a>English Version
-## 🇪🇸 Versión en Español
 
-### Bienvenido a NestCodeStudio 👨‍💻
+## <a name="version-en-español"></a>Versión en Español
+
+# Bienvenido a NestCodeStudio 👨‍💻
+
+¡Hola! Te damos la bienvenida a **NestCodeStudio**, donde nos especializamos en **desarrollo web full-stack** y ofrecemos soluciones digitales personalizadas de alta calidad para negocios y freelancers.
+
+---
 
 En **NestCodeStudio**, nos especializamos en **desarrollo web full-stack** y ofrecemos soluciones digitales personalizadas de alta calidad para negocios y freelancers. Somos un estudio de desarrollo web moderno, enfocado en construir aplicaciones escalables, fáciles de usar y optimizadas para el rendimiento.
 
