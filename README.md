@@ -133,11 +133,4 @@ En NestCodeStudio, utilizamos las tecnologías más recientes y confiables para 
 
 Gracias por visitar **NestCodeStudio**. ¡Vamos a construir algo grandioso juntos!
 
----
-
-## 📈 Looking Forward to 2025
-
-We’re excited about the future! In 2025, we aim to expand our services to include **AI-powered web applications** and dive deeper into **cloud solutions** to provide even more innovative, high-performance solutions for our clients.
-
-Thank you for visiting **NestCodeStudio**. Let’s build something great together!
 
