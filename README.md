@@ -21,12 +21,13 @@ En **NestCodeStudio**, nos especializamos en **desarrollo web full-stack** y ofr
 Ofrecemos una amplia gama de servicios para ayudarte a construir tu presencia digital, desde sitios web sencillos hasta aplicaciones complejas y personalizadas. Ya seas una startup, una empresa en crecimiento o un freelancer, creamos soluciones web a medida para satisfacer tus necesidades.
 
 ### Nuestros Servicios:
-- **Desarrollo Web Personalizado**: Creamos sitios web escalables y responsivos utilizando tecnologías modernas como React, Vue y Node.js.
-- **Soluciones de E-commerce**: Desde pequeñas tiendas online hasta grandes plataformas de comercio electrónico, creamos sitios web funcionales y seguros.
-- **Desarrollo Backend**: Nos especializamos en desarrollar sistemas backend robustos utilizando PHP, Node.js y Python.
-- **Integración de APIs**: Integramos servicios de terceros, pasarelas de pago y APIs personalizadas en tus aplicaciones.
-- **Mantenimiento de Sitios Web**: Nuestro equipo se asegura de que tu sitio web se mantenga actualizado, seguro y optimizado.
-- **Consultoría y Estrategia**: ¿Necesitas asesoría sobre cómo crear tu sitio web o aplicación web? Te ofrecemos consejos estratégicos para guiar tu camino digital.
+- **Desarrollo Web**: Páginas web estáticas, e-commerce y mantenimiento de sitios web. [Ver Más](https://docs.google.com/presentation/d/12PG6xDH5dTHQehewzuVV3F3wkZBJDvmax8mCD0ozsJw/preview)
+- **Diseño Gráfico**: Diseño de logotipos, branding y material gráfico. [Próximamente](#)
+- **Edición de Video**: Edición de reels, videos largos y creación de intros. [Ver Más](https://docs.google.com/presentation/d/e/2PACX-1vT3f8HOVu2NYQGb01kJY-mNjDEKwFiFjdcv8Fyy_v-_NS-q4lbZ8JFN6ZWKdzU8I8X6VRRzTR4/s2400?start=false&loop=false&delayms=3000)
+- **Marketing Digital**: Gestión de redes, SEO, publicidad y email marketing. [Próximamente](#)
+- **Fotografía Profesional**: Fotografía de productos y corporativa. [Ver Más](https://docs.google.com/presentation/d/e/2PACX-1vT3f8HOVu2NYQGb01kJY-mNjDEKwFiFjdcv8Fyy_v-_NS-q4lbZ8JFN6ZWKdzU8I8X6VRRzTR4/s2400?start=false&loop=false&delayms=3000)
+- **Consultoría y Formación**: Asesoría en desarrollo web y marketing digital. [Próximamente](#)
+- **Servicios Adicionales**: Organización, estética y mantenimiento de redes. [Ver Más](https://docs.google.com/presentation/d/e/2PACX-1vT3f8HOVu2NYQGb01kJY-mNjDEKwFiFjdcv8Fyy_v-_NS-q4lbZ8JFN6ZWKdzU8I8X6VRRzTR4/s2400?start=false&loop=false&delayms=3000)
 
 ---
 
@@ -34,12 +35,10 @@ Ofrecemos una amplia gama de servicios para ayudarte a construir tu presencia di
 
 En NestCodeStudio, utilizamos las tecnologías más recientes y confiables para crear soluciones web de alta calidad:
 
-- **Frontend**: HTML, CSS, JavaScript, React, Vue, Angular, Bootstrap, Tailwind
-- **Backend**: Node.js, Express.js, PHP, Laravel, Python, Django
-- **Bases de Datos**: MySQL, PostgreSQL, MongoDB, Firebase
-- **Cloud & DevOps**: AWS, Docker, Kubernetes, Heroku
-- **Control de Versiones**: Git, GitHub, GitLab
-- **Pruebas y Automatización**: Jest, Mocha, Cypress
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind, Bootstrap
+- **Backend**: Node.js, Express.js (próximamente aprenderé más sobre estos)
+- **Control de Versiones**: Git, GitHub
+- **Otros**: Vue, Angular, MySQL, PostgreSQL, MongoDB, Firebase, Docker, AWS
 
 ---
 
@@ -87,12 +86,13 @@ At **NestCodeStudio**, we specialize in **full-stack web development** and provi
 We offer a wide range of services to help you build your digital presence, from simple websites to complex, custom applications. Whether you’re a startup, a growing business, or a freelancer, we create tailored web solutions to meet your unique needs.
 
 ### Our Services:
-- **Custom Web Development**: We build scalable and responsive websites using modern technologies like React, Vue, and Node.js.
-- **E-commerce Solutions**: From small online stores to large e-commerce platforms, we create fully functional and secure e-commerce websites.
-- **Backend Development**: We specialize in developing robust backend systems using PHP, Node.js, and Python.
-- **API Integration**: We integrate third-party services, payment gateways, and custom APIs into your applications.
-- **Website Maintenance**: Our team ensures that your website stays updated, secure, and optimized.
-- **Consulting & Strategy**: Need advice on building your website or web application? We offer strategic insights to help guide your digital journey.
+- **Web Development**: Static websites, e-commerce, and website maintenance. [Learn More](https://docs.google.com/presentation/d/12PG6xDH5dTHQehewzuVV3F3wkZBJDvmax8mCD0ozsJw/preview)
+- **Graphic Design**: Logo design, branding, and graphic materials. [Coming Soon](#)
+- **Video Editing**: Editing reels, long videos, and creating intros. [Learn More](https://docs.google.com/presentation/d/e/2PACX-1vT3f8HOVu2NYQGb01kJY-mNjDEKwFiFjdcv8Fyy_v-_NS-q4lbZ8JFN6ZWKdzU8I8X6VRRzTR4/s2400?start=false&loop=false&delayms=3000)
+- **Digital Marketing**: Social media management, SEO, ads, and email marketing. [Coming Soon](#)
+- **Professional Photography**: Product and corporate photography. [Learn More](https://docs.google.com/presentation/d/e/2PACX-1vT3f8HOVu2NYQGb01kJY-mNjDEKwFiFjdcv8Fyy_v-_NS-q4lbZ8JFN6ZWKdzU8I8X6VRRzTR4/s2400?start=false&loop=false&delayms=3000)
+- **Consulting & Training**: Web development and digital marketing consulting. [Coming Soon](#)
+- **Additional Services**: Social media organization, aesthetics, and maintenance. [Learn More](https://docs.google.com/presentation/d/e/2PACX-1vT3f8HOVu2NYQGb01kJY-mNjDEKwFiFjdcv8Fyy_v-_NS-q4lbZ8JFN6ZWKdzU8I8X6VRRzTR4/s2400?start=false&loop=false&delayms=3000)
 
 ---
 
@@ -100,12 +100,10 @@ We offer a wide range of services to help you build your digital presence, from 
 
 At NestCodeStudio, we use the latest and most reliable technologies to create top-tier web solutions:
 
-- **Frontend**: HTML, CSS, JavaScript, React, Vue, Angular, Bootstrap, Tailwind
-- **Backend**: Node.js, Express.js, PHP, Laravel, Python, Django
-- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase
-- **Cloud & DevOps**: AWS, Docker, Kubernetes, Heroku
-- **Version Control**: Git, GitHub, GitLab
-- **Testing & Automation**: Jest, Mocha, Cypress
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind, Bootstrap
+- **Backend**: Node.js, Express.js (currently learning more about these)
+- **Version Control**: Git, GitHub
+- **Other**: Vue, Angular, MySQL, PostgreSQL, MongoDB, Firebase, Docker, AWS
 
 ---
 
@@ -134,5 +132,4 @@ Are you ready to bring your ideas to life? Let’s talk about how **NestCodeStud
 We’re excited about the future! In 2025, we aim to expand our services to include **AI-powered web applications** and dive deeper into **cloud solutions** to provide even more innovative, high-performance solutions for our clients.
 
 Thank you for visiting **NestCodeStudio**. Let’s build something great together!
-
 
