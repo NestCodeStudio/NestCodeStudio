@@ -23,11 +23,11 @@ Ofrecemos una amplia gama de servicios para ayudarte a construir tu presencia di
 ### Nuestros Servicios:
 - **Desarrollo Web**: Páginas web estáticas, e-commerce y mantenimiento de sitios web. [Ver Más](https://docs.google.com/presentation/d/12PG6xDH5dTHQehewzuVV3F3wkZBJDvmax8mCD0ozsJw/preview)
 - **Diseño Gráfico**: Diseño de logotipos, branding y material gráfico. [Próximamente](#)
-- **Edición de Video**: Edición de reels, videos largos y creación de intros. [Ver Más](https://docs.google.com/presentation/d/e/2PACX-1vT3f8HOVu2NYQGb01kJY-mNjDEKwFiFjdcv8Fyy_v-_NS-q4lbZ8JFN6ZWKdzU8I8X6VRRzTR4/s2400?start=false&loop=false&delayms=3000)
+- **Edición de Video**: Edición de reels, videos largos y creación de intros. [Próximamente](#)
 - **Marketing Digital**: Gestión de redes, SEO, publicidad y email marketing. [Próximamente](#)
-- **Fotografía Profesional**: Fotografía de productos y corporativa. [Ver Más](https://docs.google.com/presentation/d/e/2PACX-1vT3f8HOVu2NYQGb01kJY-mNjDEKwFiFjdcv8Fyy_v-_NS-q4lbZ8JFN6ZWKdzU8I8X6VRRzTR4/s2400?start=false&loop=false&delayms=3000)
+- **Fotografía Profesional**: Fotografía de productos y corporativa. [Próximamente](#)
 - **Consultoría y Formación**: Asesoría en desarrollo web y marketing digital. [Próximamente](#)
-- **Servicios Adicionales**: Organización, estética y mantenimiento de redes. [Ver Más](https://docs.google.com/presentation/d/e/2PACX-1vT3f8HOVu2NYQGb01kJY-mNjDEKwFiFjdcv8Fyy_v-_NS-q4lbZ8JFN6ZWKdzU8I8X6VRRzTR4/s2400?start=false&loop=false&delayms=3000)
+- **Servicios Adicionales**: Organización, estética y mantenimiento de redes. [Próximamente](#)
 
 ---
 
@@ -36,7 +36,7 @@ Ofrecemos una amplia gama de servicios para ayudarte a construir tu presencia di
 En NestCodeStudio, utilizamos las tecnologías más recientes y confiables para crear soluciones web de alta calidad:
 
 - **Frontend**: HTML, CSS, JavaScript, React, Tailwind, Bootstrap
-- **Backend**: Node.js, Express.js (próximamente aprenderé más sobre estos)
+- **Backend**: Node.js, Express.js 
 - **Control de Versiones**: Git, GitHub
 - **Otros**: Vue, Angular, MySQL, PostgreSQL, MongoDB, Firebase, Docker, AWS
 
@@ -88,11 +88,11 @@ We offer a wide range of services to help you build your digital presence, from 
 ### Our Services:
 - **Web Development**: Static websites, e-commerce, and website maintenance. [Learn More](https://docs.google.com/presentation/d/12PG6xDH5dTHQehewzuVV3F3wkZBJDvmax8mCD0ozsJw/preview)
 - **Graphic Design**: Logo design, branding, and graphic materials. [Coming Soon](#)
-- **Video Editing**: Editing reels, long videos, and creating intros. [Learn More](https://docs.google.com/presentation/d/e/2PACX-1vT3f8HOVu2NYQGb01kJY-mNjDEKwFiFjdcv8Fyy_v-_NS-q4lbZ8JFN6ZWKdzU8I8X6VRRzTR4/s2400?start=false&loop=false&delayms=3000)
+- **Video Editing**: Editing reels, long videos, and creating intros. [Coming Soon](#)
 - **Digital Marketing**: Social media management, SEO, ads, and email marketing. [Coming Soon](#)
-- **Professional Photography**: Product and corporate photography. [Learn More](https://docs.google.com/presentation/d/e/2PACX-1vT3f8HOVu2NYQGb01kJY-mNjDEKwFiFjdcv8Fyy_v-_NS-q4lbZ8JFN6ZWKdzU8I8X6VRRzTR4/s2400?start=false&loop=false&delayms=3000)
+- **Professional Photography**: Product and corporate photography. [Coming Soon](#)
 - **Consulting & Training**: Web development and digital marketing consulting. [Coming Soon](#)
-- **Additional Services**: Social media organization, aesthetics, and maintenance. [Learn More](https://docs.google.com/presentation/d/e/2PACX-1vT3f8HOVu2NYQGb01kJY-mNjDEKwFiFjdcv8Fyy_v-_NS-q4lbZ8JFN6ZWKdzU8I8X6VRRzTR4/s2400?start=false&loop=false&delayms=3000)
+- **Additional Services**: Social media organization, aesthetics, and maintenance. [Coming Soon](#)
 
 ---
 
@@ -101,7 +101,7 @@ We offer a wide range of services to help you build your digital presence, from 
 At NestCodeStudio, we use the latest and most reliable technologies to create top-tier web solutions:
 
 - **Frontend**: HTML, CSS, JavaScript, React, Tailwind, Bootstrap
-- **Backend**: Node.js, Express.js (currently learning more about these)
+- **Backend**: Node.js, Express.js
 - **Version Control**: Git, GitHub
 - **Other**: Vue, Angular, MySQL, PostgreSQL, MongoDB, Firebase, Docker, AWS
 
